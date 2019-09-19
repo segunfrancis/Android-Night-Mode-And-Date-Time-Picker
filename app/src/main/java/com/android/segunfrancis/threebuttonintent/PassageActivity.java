@@ -42,9 +42,9 @@ public class PassageActivity extends AppCompatActivity {
         // Theme state
         int nightMode = AppCompatDelegate.getDefaultNightMode();
         if (nightMode == AppCompatDelegate.MODE_NIGHT_YES) {
-            menu.findItem(R.id.night_mode).setIcon(R.drawable.ic_dark_mode);
-        } else {
             menu.findItem(R.id.night_mode).setIcon(R.drawable.ic_day_mode);
+        } else {
+            menu.findItem(R.id.night_mode).setIcon(R.drawable.ic_dark_mode);
         }
 
         // Saving theme into shared preference
@@ -70,7 +70,7 @@ public class PassageActivity extends AppCompatActivity {
         return true;
     }
 
-    /*************************** Context Menu ********************************/
+    /********************************* Context Menu *****************************************/
     @Override
     public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
         super.onCreateContextMenu(menu, v, menuInfo);
