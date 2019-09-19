@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Three Button Intent</string>
+    <string name="first_passage">PASSAGE 1 \nPhasellus ullamcorper ipsum rutrum nunc. Suspendisse feugiat. Etiam vitae tortor. Cras non dolor. Maecenas egestas arcu quis ligula mattis placerat.
+
+Proin magna. Quisque malesuada placerat nisl. Vestibulum eu odio. Maecenas egestas arcu quis ligula mattis placerat. Proin magna.
+
+Quisque ut nisi. Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent ac sem eget est egestas volutpat. Praesent congue erat at massa.
+
+Fusce fermentum. Ut non enim eleifend felis pretium feugiat.. Praesent congue erat at massa. Vivamus laoreet.
+
+Curabitur suscipit suscipit tellus. Proin viverra, ligula sit amet ultrices semper, ligula arcu tristique sapien, a accumsan nisi mauris ac eros. Phasellus blandit leo ut odio. Phasellus ullamcorper ipsum rutrum nunc. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam.
+    In ac felis quis tortor malesuada pretium. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Etiam feugiat lorem non metus. Fusce a quam. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nam adipiscing. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis lobortis massa imperdiet quam. Praesent nonummy mi in odio. Aenean imperdiet.
+
+Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Praesent blandit laoreet nibh. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. In ac felis quis tortor malesuada pretium. Pellentesque posuere.
+
+Fusce ac felis sit amet ligula pharetra condimentum. Aliquam erat volutpat. Donec posuere vulputate arcu. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam. Vest</string>
+
+    <string name="second_passage">PASSAGE 2 \nPellentesque dapibus hendrerit tortor. Vestibulum volutpat pretium libero. Ut a nisl id ante tempus hendrerit. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Etiam ultricies nisi vel augue.
+
+Vivamus quis mi. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Sed a libero. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Pellentesque auctor neque nec urna.
+
+Praesent ac sem eget est egestas volutpat. In turpis. Fusce commodo aliquam arcu. Pellentesque ut neque. Nulla facilisi.
+
+Aliquam lobortis. Aenean ut eros et nisl sagittis vestibulum. Praesent turpis. Etiam ultricies nisi vel augue. Proin pretium, leo ac pellentesque mollis, felis nunc ultrices eros, sed gravida augue augue mollis justo.
+
+Sed hendrerit. Aliquam lobortis. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce pharetra convallis urna. Morbi vestibulum volutpat enim.
+    In ac felis quis tortor malesuada pretium. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Etiam feugiat lorem non metus. Fusce a quam. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nam adipiscing. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis lobortis massa imperdiet quam. Praesent nonummy mi in odio. Aenean imperdiet.
+
+Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Praesent blandit laoreet nibh. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. In ac felis quis tortor malesuada pretium. Pellentesque posuere.
+
+Fusce ac felis sit amet ligula pharetra condimentum. Aliquam erat volutpat. Donec posuere vulputate arcu. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam. Vest</string>
+
+    <string name="third_passage">PASSAGE 3 \nPhasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Curabitur nisi. Fusce a quam. Phasellus a est.
+
+In ac felis quis tortor malesuada pretium. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Etiam feugiat lorem non metus. Fusce a quam. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nam adipiscing. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis lobortis massa imperdiet quam. Praesent nonummy mi in odio. Aenean imperdiet.
+
+Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Praesent blandit laoreet nibh. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. In ac felis quis tortor malesuada pretium. Pellentesque posuere.
+
+Fusce ac felis sit amet ligula pharetra condimentum. Aliquam erat volutpat. Donec posuere vulputate arcu. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl.
+    In ac felis quis tortor malesuada pretium. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Etiam feugiat lorem non metus. Fusce a quam. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+Nam adipiscing. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis lobortis massa imperdiet quam. Praesent nonummy mi in odio. Aenean imperdiet.
+
+Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Praesent blandit laoreet nibh. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. In ac felis quis tortor malesuada pretium. Pellentesque posuere.
+
+Fusce ac felis sit amet ligula pharetra condimentum. Aliquam erat volutpat. Donec posuere vulputate arcu. Suspendisse nisl elit, rhoncus eget, elementum ac, condimentum eget, diam. Vest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
